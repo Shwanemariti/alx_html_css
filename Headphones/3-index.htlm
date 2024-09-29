@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/4a2b055604.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Source Sans Pro" rel="stylesheet"> 
+    <link rel="stylesheet" href="0-styles.css">
+    <title>Headphones</title>
+</head>
+<body class="works_on_smartphone">
+    <header>
+        <div class="hero">
+            <nav>
+                <div class="logo">
+                    <img src="images/logo_headphones.png" alt="Headphones Logo">
+                </div>
+                <input type="checkbox" id="menu-toggle" class="menu-toggle">
+                <label for="menu-toggle" class="hamburger">&#9776;</label>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="WHAT WE DO">What We Do</a></li>
+                    <li><a href="OUR RESULTS">Our Results</a></li>
+                    <li><a href="CONTACT US">Contact Us</a></li>
+                </ul>
+            </nav>
+            <div class="hero-content">
+                <h1>Lorem ipsum dolor sit amet lorem ipsum</h1>
+                <p>Lorem ipsum dolor sit amet lorem ipsum dolor sit amet</p>
+                <button>CALL TO ACTION</button>
+                <div class="container">
+                    <p class="four-lines">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
+                       <p> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+                        <p>laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        <p>voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    
+</body>
+</html>
