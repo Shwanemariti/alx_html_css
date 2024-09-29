@@ -16,7 +16,7 @@
                     <img src="images/logo_headphones.png" alt="Headphones Logo">
                 </div>
                 <input type="checkbox" id="menu-toggle" class="menu-toggle">
-                <label for="menu-toggle" class="hamburger">&#9776;</label>
+                <label for="menu-toggle" class="headphones">&#9776;</label>
                 <ul class="nav-links" id="nav-links">
                     <li><a href="WHAT WE DO">What We Do</a></li>
                     <li><a href="OUR RESULTS">Our Results</a></li>
